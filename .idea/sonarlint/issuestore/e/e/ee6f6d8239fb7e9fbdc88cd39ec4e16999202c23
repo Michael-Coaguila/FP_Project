@@ -1,0 +1,185 @@
+
+b
+java:S1192t"GDefine a constant instead of duplicating this literal "123456" 3 times.(–ÿÁ­ûÿÿÿÿ
+}
+java:S1192t"bDefine a constant instead of duplicating this literal "jdbc:mysql://localhost:3306/sales" 3 times.(–ÿÁ­ûÿÿÿÿ
+`
+java:S1192"JDefine a constant instead of duplicating this literal "DISCOUNT" 12 times.(Œ›œ¾
+K
+java:S1066"/Merge this if statement with the enclosing one.(ŞÊŞıùÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š³Û©
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š³Û©
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š³Û©
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š³Û©
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ûµ¡
+k	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã³ûÿÿÿÿ
+k	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã³ûÿÿÿÿ
+k	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã³ûÿÿÿÿ
+k	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÊĞõøÿÿÿÿ
+k	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÊĞõøÿÿÿÿ
+k	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÊĞõøÿÿÿÿ
+k	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ùÉòøÿÿÿÿ
+k	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ùÉòøÿÿÿÿ
+k	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ùÉòøÿÿÿÿ
+k	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ùÉòøÿÿÿÿ
+k	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üü–¯øÿÿÿÿ
+k	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»÷éªøÿÿÿÿ
+f	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ŒÈ·
+f	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›©÷è
+f	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›©÷è
+f	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›©÷è
+f	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›©÷è
+f	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›©÷è
+k	java:S117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òâœÀúÿÿÿÿ
+k	java:S117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òâœÀúÿÿÿÿ
+l	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àï‘ùÿÿÿÿ
+g	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şØÙ‘
+l	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şç¾‹ùÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áâáéúÿÿÿÿ
+g	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤™àŠ
+l	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÌ‰€şÿÿÿÿ
+l	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÌ‰€şÿÿÿÿ
+l	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÌ‰€şÿÿÿÿ
+l	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÌ‰€şÿÿÿÿ
+g	java:S117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù—¿¨
+f	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èà‹6
+f	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èà‹6
+g	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ä¾ÿ
+l	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àï‘ùÿÿÿÿ
+g	java:S117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şØÙ‘
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şç¾‹ùÿÿÿÿ
+l	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áâáéúÿÿÿÿ
+g	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤™àŠ
+f
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(¥ğÂêşÿÿÿÿ
+g	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¾”Ã¬ùÿÿÿÿ
+W
+java:S4973h"<Strings and Boxed types should be compared using "equals()".(£ºÆÿÿÿÿÿ
+S
+java:S4973š"<Strings and Boxed types should be compared using "equals()".(Şåˆò
+S
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Şåˆò
+m
+java:S2095Ğ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‘  ›8×¢³•Ï0
+_
+java:S2095á"HUse try-with-resources or close this "Connection" in a "finally" clause.(Ü´Ê
+m
+java:S2095ä"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‘  ›8Ø¢³•Ï0
+e
+java:S2095s"HUse try-with-resources or close this "Connection" in a "finally" clause.(Ü´Ê8Ø¢³•Ï0
+l
+java:S2095v"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‘  ›8Ø¢³•Ï0
+f
+java:S2095Ê"HUse try-with-resources or close this "Connection" in a "finally" clause.(Ü´Ê8Ù¢³•Ï0
+R	java:S107"=Method has 10 parameters, which is greater than 7 authorized.(Š³Û©
+V	java:S107!"<Method has 9 parameters, which is greater than 7 authorized.(Ã³ûÿÿÿÿ
+U
+java:S1118
+":Add a private constructor to hide the implicit public one.(¾”Ã¬ùÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š³Û©
+N	java:S106"9Replace this use of System.out or System.err by a logger.(›öÀÆ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‚ˆÃÆ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‘Ã„âúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‡ÃÃÂ
+<	java:S131""Add a default case to this switch.(¥ğÂêşÿÿÿÿ
+h	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã³ûÿÿÿÿ
+m
+java:S3776!"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(Ã³ûÿÿÿÿ
+^
+java:S1854$"CRemove this useless assignment to local variable "precio_sin_desc".(´ÊĞõøÿÿÿÿ
+g
+java:S1659$"LDeclare "precio_sin_desc" and all following declarations on a separate line.(´ÊĞõøÿÿÿÿ
+e
+java:S1659%"JDeclare "posc_busqueda" and all following declarations on a separate line.(¾ùÉòøÿÿÿÿ
+`
+java:S1659)"JDeclare "confirm_desct" and all following declarations on a separate line.(›©÷è
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ô÷˜Ì
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(‘ë‚û
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(‘ûƒûÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(«øÇ¦
+N	java:S106="9Replace this use of System.out or System.err by a logger.(°êî¿
+l
+java:S2159F"VRemove this call to "equals"; comparisons between unrelated types always return false.(ôêš¼
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(™Ôîõûÿÿÿÿ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(¨¦ïıÿÿÿÿ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(øÄî€úÿÿÿÿ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(¼™­ şÿÿÿÿ
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(šÏëÙúÿÿÿÿ
+N	java:S106Z"9Replace this use of System.out or System.err by a logger.(ı¹°ğ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(êé±òüÿÿÿÿ
+h	java:S100d"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òâœÀúÿÿÿÿ
+N	java:S106e"9Replace this use of System.out or System.err by a logger.(¾¬›ì
+N	java:S106l"9Replace this use of System.out or System.err by a logger.(îå¾Ş
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(ÕûŞøÿÿÿÿ
+N	java:S106n"9Replace this use of System.out or System.err by a logger.(Ÿ¹ÿò
+X
+java:S6437t"6Revoke and change this password, as it is compromised.(–ÿÁ­ûÿÿÿÿ8ò¢³•Ï0
+g
+java:S1854…"DRemove this useless assignment to local variable "nombre_descuento".(Å²²Õúÿÿÿÿ8ó¢³•Ï0
+\
+java:S1854">Remove this useless assignment to local variable "discountId".(ÖÖ‚Ê8ó¢³•Ï0
+M
+java:S1481€"/Remove this unused "discountId" local variable.(Áˆ‰8ô¢³•Ï0
+X
+java:S1481„"5Remove this unused "nombre_descuento" local variable.(àï‘ùÿÿÿÿ8õ¢³•Ï0
+O	java:S106›"9Replace this use of System.out or System.err by a logger.(î«òë
+O	java:S106œ"9Replace this use of System.out or System.err by a logger.(é¬äà
+O	java:S106 "9Replace this use of System.out or System.err by a logger.(î«òë
+V	java:S106¢"9Replace this use of System.out or System.err by a logger.(é¬äà8ö¢³•Ï0
+p	java:S100¦"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÌ‰€şÿÿÿÿ8÷¢³•Ï0
+f
+java:S1854°"CRemove this useless assignment to local variable "nombreCategoria".(Ï¾ËŞøÿÿÿÿ8÷¢³•Ï0
+V
+java:S1854¯"?Remove this useless assignment to local variable "idCategoria".(—õ°¬
+[
+java:S1854Ì"8Remove this useless assignment to local variable "sq2l".(Ï±Åüùÿÿÿÿ8ø¢³•Ï0
+]
+java:S1854³"ARemove this useless assignment to local variable "opc_add_promc".(ğ«µÏùÿÿÿÿ
+_
+java:S1854²"ARemove this useless assignment to local variable "opc_consultar".(®èÄŸ8ø¢³•Ï0
+|
+java:S1172¦"YRemove these unused method parameters "promoc_generales_desc", "promoc_generales_aplica".(ÜÌ‰€şÿÿÿÿ8ù¢³•Ï0
+H
+java:S1659©"+Declare "opc_consultar" on a separate line.(Èà‹68ù¢³•Ï0
+G
+java:S1659®")Declare "categoriaId" on a separate line.(¼é«Û8ú¢³•Ï0
+[	java:S106«"9Replace this use of System.out or System.err by a logger.(èœçàúÿÿÿÿ8ú¢³•Ï0
+G
+java:S1481¯"0Remove this unused "idCategoria" local variable.(—õ°¬
+W
+java:S1481°"4Remove this unused "nombreCategoria" local variable.(Ï¾ËŞøÿÿÿÿ8û¢³•Ï0
+V	java:S106´"9Replace this use of System.out or System.err by a logger.(Äğ¶8û¢³•Ï0
+[	java:S106µ"9Replace this use of System.out or System.err by a logger.(¦á¸øÿÿÿÿ8ü¢³•Ï0
+V	java:S106¶"9Replace this use of System.out or System.err by a logger.(‡ÃÃÂ8ü¢³•Ï0
+[	java:S106¼"9Replace this use of System.out or System.err by a logger.(éÁ¦ïÿÿÿÿÿ8ü¢³•Ï0
+[	java:S106À"9Replace this use of System.out or System.err by a logger.(ìñ³áüÿÿÿÿ8ı¢³•Ï0
+V	java:S106Â"9Replace this use of System.out or System.err by a logger.(³üõ8ş¢³•Ï0
+[	java:S106Å"9Replace this use of System.out or System.err by a logger.(çµõ¸ÿÿÿÿÿ8ş¢³•Ï0
+V	java:S106Ç"9Replace this use of System.out or System.err by a logger.(»™´8ş¢³•Ï0
+Y
+java:S6437Ë"6Revoke and change this password, as it is compromised.(–ÿÁ­ûÿÿÿÿ8ÿ¢³•Ï0
+L
+java:S1481Ì")Remove this unused "sq2l" local variable.(Ï±Åüùÿÿÿÿ8ÿ¢³•Ï0
+P
+java:S1135Ø"2Complete the task associated to this TODO comment.(¯ıÿ8€£³•Ï0
+[	java:S106Ş"9Replace this use of System.out or System.err by a logger.(¦¹õ¢úÿÿÿÿ8€£³•Ï0
+O
+java:S1135à"2Complete the task associated to this TODO comment.(½ÑÀU8£³•Ï0
+Y
+java:S6437â"6Revoke and change this password, as it is compromised.(–ÿÁ­ûÿÿÿÿ8£³•Ï0
+[	java:S106è"9Replace this use of System.out or System.err by a logger.(™Ç»©ıÿÿÿÿ8‚£³•Ï0
+[	java:S106ë"9Replace this use of System.out or System.err by a logger.(«÷ª•şÿÿÿÿ8‚£³•Ï0
+U	java:S106î"9Replace this use of System.out or System.err by a logger.(–‡¿08‚£³•Ï0
+l
+java:S1854†"NRemove this useless assignment to local variable "promoc_generales_categoria".(ŠÜêû8ƒ£³•Ï0
+g
+java:S1854ú"DRemove this useless assignment to local variable "nombre_descuento".(Å²²Õúÿÿÿÿ8ƒ£³•Ï0
+\
+java:S1854ö">Remove this useless assignment to local variable "discountId".(ÖÖ‚Ê8ƒ£³•Ï0
+M
+java:S1481õ"/Remove this unused "discountId" local variable.(Áˆ‰8„£³•Ï0
+X
+java:S1481ù"5Remove this unused "nombre_descuento" local variable.(àï‘ùÿÿÿÿ8„£³•Ï0
+b
+java:S1481…"?Remove this unused "promoc_generales_categoria" local variable.(áâáéúÿÿÿÿ8…£³•Ï0

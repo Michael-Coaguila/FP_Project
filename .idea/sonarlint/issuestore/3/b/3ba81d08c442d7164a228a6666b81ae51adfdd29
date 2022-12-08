@@ -1,0 +1,205 @@
+
+g
+java:S1192t"LDefine a constant instead of duplicating this literal "CATEGORY_ID" 5 times.(‘œËøÿÿÿÿ
+_
+java:S1192Ÿ"IDefine a constant instead of duplicating this literal "QUANTITY" 3 times.(ªê×*
+c
+java:S1192‰"GDefine a constant instead of duplicating this literal "123456" 6 times.(–ÿÁ­ûÿÿÿÿ
+e
+java:S1192–"IDefine a constant instead of duplicating this literal "PRODUCT" 13 times.(üÏº²ıÿÿÿÿ
+b
+java:S1192œ"FDefine a constant instead of duplicating this literal "PRICE" 3 times.(âÅşóÿÿÿÿÿ
+_
+java:S1192p"IDefine a constant instead of duplicating this literal "DISCOUNT" 5 times.(Øï×
+¡
+java:S1192:"…Define a constant instead of duplicating this literal "ID    NOMBRE    CANTIDAD    PRECIO/UND    DESCRIPCIÃ“N    CATEGORÃA" 6 times.(‘ûƒûÿÿÿÿ
+c
+java:S1192¢"LDefine a constant instead of duplicating this literal "DESCRIPTION" 3 times.(Æ‚–‚
+~
+java:S1192‰"bDefine a constant instead of duplicating this literal "jdbc:mysql://localhost:3306/sales" 6 times.(–ÿÁ­ûÿÿÿÿ
+j
+java:S1192"TDefine a constant instead of duplicating this literal "Elija una opciÃ³n: " 4 times.(‡ÃÃÂ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ÿøé
+k	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊîÌÀÿÿÿÿÿ
+k	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë…Æûÿÿÿÿ
+k	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë…Æûÿÿÿÿ
+k	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öá›˜üÿÿÿÿ
+f	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å›ñ©
+f	java:S117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şØÙ‘
+k	java:S117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şç¾‹ùÿÿÿÿ
+k	java:S117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áâáéúÿÿÿÿ
+f	java:S117}"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤™àŠ
+g	java:S117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åå™ö
+g	java:S117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åå™ö
+g	java:S117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åå™ö
+g	java:S117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íì±¹
+g	java:S117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íì±¹
+g	java:S117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íì±¹
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(«Ã†é
+Z
+java:S4973Æ"<Strings and Boxed types should be compared using "equals()".(ï‚†·8©œßÏ0
+d
+java:S2259«"FA "NullPointerException" could be thrown; "cantidad" is nullable here.(Û†‡†8áöÚÏ0
+g
+java:S2259«"IA "NullPointerException" could be thrown; "descripcion" is nullable here.(Û†‡†8áöÚÏ0
+b
+java:S2259Î"DA "NullPointerException" could be thrown; "nombre" is nullable here.(×¦Û¨8àöÚÏ0
+g
+java:S2259È"IA "NullPointerException" could be thrown; "descripcion" is nullable here.(×¦Û¨8›¿ÛÏ0
+]
+java:S2259È"FA "NullPointerException" could be thrown; "cantidad" is nullable here.(×¦Û¨
+j
+java:S2259"SA "NullPointerException" could be thrown; "promoc_generales_desc" is nullable here.(é¬äà
+[
+java:S2259È"DA "NullPointerException" could be thrown; "precio" is nullable here.(×¦Û¨
+o
+java:S2259"XA "NullPointerException" could be thrown; "promoc_generales_categoria" is nullable here.(é¬äà
+`
+java:S2259«"IA "NullPointerException" could be thrown; "categoriaId" is nullable here.(Û†‡†
+b
+java:S2259«"DA "NullPointerException" could be thrown; "nombre" is nullable here.(Û†‡†8›¿ÛÏ0
+w
+java:S2259€"[A "NullPointerException" could be thrown; "promoc_generales_id_categoria" is nullable here.(ÂŠš©ÿÿÿÿÿ
+d
+java:S2259Î"FA "NullPointerException" could be thrown; "cantidad" is nullable here.(×¦Û¨8›¿ÛÏ0
+g
+java:S2259È"IA "NullPointerException" could be thrown; "categoriaId" is nullable here.(×¦Û¨8œ¿ÛÏ0
+e
+java:S2259Å"GA "NullPointerException" could be thrown; "productId" is nullable here.(È‰ĞÆ8µ•ÜÏ0
+g
+java:S2259Î"IA "NullPointerException" could be thrown; "categoriaId" is nullable here.(×¦Û¨8ŞöÚÏ0
+b
+java:S2259È"DA "NullPointerException" could be thrown; "nombre" is nullable here.(×¦Û¨8œ¿ÛÏ0
+b
+java:S2259Î"DA "NullPointerException" could be thrown; "precio" is nullable here.(×¦Û¨8İöÚÏ0
+[
+java:S2259«"DA "NullPointerException" could be thrown; "precio" is nullable here.(Û†‡†
+l
+java:S2259"UA "NullPointerException" could be thrown; "promoc_generales_aplica" is nullable here.(é¬äà
+g
+java:S2259Î"IA "NullPointerException" could be thrown; "descripcion" is nullable here.(×¦Û¨8ŞöÚÏ0
+`
+java:S2259©"DA "NullPointerException" could be thrown; "objIds" is nullable here.(×„é‡ıÿÿÿÿ
+e
+java:S2259Ì"GA "NullPointerException" could be thrown; "productId" is nullable here.(È‰ĞÆ8™¿ÛÏ0
+f
+java:S2095ğ"HUse try-with-resources or close this "Connection" in a "finally" clause.(Ü´Ê8ûáæÏ0
+f
+java:S2095‘"HUse try-with-resources or close this "Connection" in a "finally" clause.(Ü´Ê8Ç˜çÏ0
+_
+java:S2095ı"HUse try-with-resources or close this "Connection" in a "finally" clause.(Ü´Ê
+m
+java:S2095”"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‘  ›8ìÁæÏ0
+m
+java:S2095ó"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‘  ›8ûáæÏ0
+_
+java:S2095´"HUse try-with-resources or close this "Connection" in a "finally" clause.(Ü´Ê
+f
+java:S2095ş"HUse try-with-resources or close this "Connection" in a "finally" clause.(Ü´Ê8ûáæÏ0
+j
+java:S2095·"GUse try-with-resources or close this "Statement" in a "finally" clause.(íñéşÿÿÿÿ8úáæÏ0
+m
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‘  ›8Ç˜çÏ0
+f
+java:S2095ˆ"HUse try-with-resources or close this "Connection" in a "finally" clause.(Ü´Ê8úáæÏ0
+j
+java:S2095€"GUse try-with-resources or close this "Statement" in a "finally" clause.(íñéşÿÿÿÿ8úáæÏ0
+f
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‘  ›
+P
+java:S1118":Add a private constructor to hide the implicit public one.(«Ã†é
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ì×
+S	java:S106"9Replace this use of System.out or System.err by a logger.(íïÛ±ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‹¸•Ë
+S	java:S106"9Replace this use of System.out or System.err by a logger.(âöÃ™şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñ‹¬
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ú¢±®
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‡ÃÃÂ
+<	java:S131""Add a default case to this switch.(‡¥éÿÿÿÿÿ
+h	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èá×½şÿÿÿÿ
+m
+java:S3776)"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(èá×½şÿÿÿÿ
+H
+java:S1659,"-Declare "opc_reg_product" on a separate line.(Ë…Æûÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(Æ¨îªøÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(½×œÉ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(µ“§º
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(¦ Œ»üÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(‡ÃÃÂ
+<	java:S1318""Add a default case to this switch.(¼‰ò—şÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(‘ûƒûÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(”æ Ùüÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(ÕÃÿôıÿÿÿÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(‘ûƒûÿÿÿÿ
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(”æ Ùüÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(÷ş•ûÿÿÿÿ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(‘ûƒûÿÿÿÿ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(”æ Ùüÿÿÿÿ
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(Çê×Ò
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(œŒš¯ıÿÿÿÿ
+c	java:S100_"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÎšË
+N	java:S106g"9Replace this use of System.out or System.err by a logger.(Ê‘šÜ
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(’¬Üæûÿÿÿÿ
+N	java:S106k"9Replace this use of System.out or System.err by a logger.(ÉÙ½ë
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(üñ¬Ï
+N	java:S106"9Replace this use of System.out or System.err by a logger.(î«òë
+O	java:S106"9Replace this use of System.out or System.err by a logger.(é¬äà
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(ıáŞ¦
+O	java:S106†"9Replace this use of System.out or System.err by a logger.(äÕ¦
+R
+java:S6437‰"6Revoke and change this password, as it is compromised.(–ÿÁ­ûÿÿÿÿ
+T	java:S106ª"9Replace this use of System.out or System.err by a logger.(‘ûƒûÿÿÿÿ
+O	java:S106«"9Replace this use of System.out or System.err by a logger.(Û†‡†
+T	java:S106Ç"9Replace this use of System.out or System.err by a logger.(‘ûƒûÿÿÿÿ
+O	java:S106È"9Replace this use of System.out or System.err by a logger.(×¦Û¨
+T	java:S106Í"9Replace this use of System.out or System.err by a logger.(‘ûƒûÿÿÿÿ
+O	java:S106Î"9Replace this use of System.out or System.err by a logger.(×¦Û¨
+c	java:S100Ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¼ıf
+h
+java:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(µ¼ıf
+†
+java:S1172Ó"iRemove these unused method parameters "id", "nombre", "cantidad", "precio", "descripcion", "categoriaId".(µ¼ıf8£ÓúÏ0
+\
+java:S1659Õ"EDeclare "opc_menu" and all following declarations on a separate line.(Åå™ö
+`
+java:S1659Ö"IDeclare "opc_eliminar" and all following declarations on a separate line.(Íì±¹
+O	java:S106Ø"9Replace this use of System.out or System.err by a logger.(ôñ‹Ü
+O	java:S106İ"9Replace this use of System.out or System.err by a logger.(¶‰Î­
+T	java:S106à"9Replace this use of System.out or System.err by a logger.(ƒÇ°·ùÿÿÿÿ
+O	java:S106á"9Replace this use of System.out or System.err by a logger.(îîİ°
+O	java:S106â"9Replace this use of System.out or System.err by a logger.(‡ÃÃÂ
+O	java:S106é"9Replace this use of System.out or System.err by a logger.(€˜Á¤
+O	java:S106ê"9Replace this use of System.out or System.err by a logger.(›¿Şµ
+O	java:S106ë"9Replace this use of System.out or System.err by a logger.(‡ÃÃÂ
+O	java:S106î"9Replace this use of System.out or System.err by a logger.(İ¥ü
+R
+java:S6437ñ"6Revoke and change this password, as it is compromised.(–ÿÁ­ûÿÿÿÿ
+T	java:S106ù"9Replace this use of System.out or System.err by a logger.(˜¬Âöüÿÿÿÿ
+T	java:S106ü"9Replace this use of System.out or System.err by a logger.(úû¦¶ùÿÿÿÿ
+Y
+java:S6437ÿ"6Revoke and change this password, as it is compromised.(–ÿÁ­ûÿÿÿÿ8”âæÏ0
+O	java:S106†"9Replace this use of System.out or System.err by a logger.(ÅøîÌ
+[	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(«÷ª•şÿÿÿÿ8•âæÏ0
+[	java:S106‰"9Replace this use of System.out or System.err by a logger.(ÜÕıÿÿÿÿ8•âæÏ0
+[	java:S106"9Replace this use of System.out or System.err by a logger.(«ëü­şÿÿÿÿ8•âæÏ0
+Y
+java:S6437’"6Revoke and change this password, as it is compromised.(–ÿÁ­ûÿÿÿÿ8˜âæÏ0
+[	java:S106˜"9Replace this use of System.out or System.err by a logger.(ÛõËÚıÿÿÿÿ8–âæÏ0
+V	java:S106 "9Replace this use of System.out or System.err by a logger.(ÚÊ‰®8–âæÏ0
+[	java:S106¬"9Replace this use of System.out or System.err by a logger.(ö·Õıÿÿÿÿ8—âæÏ0
+D
+java:S1168­"&Return an empty array instead of null.(¥¹ï8—âæÏ0
+Y
+java:S6437µ"6Revoke and change this password, as it is compromised.(–ÿÁ­ûÿÿÿÿ8¡âæÏ0
+[	java:S106ñ"9Replace this use of System.out or System.err by a logger.(àÒ·ûÿÿÿÿ8ŸâæÏ0
+D
+java:S1168ò"&Return an empty array instead of null.(¥¹ï8ŸâæÏ0
+D
+java:S1168÷"&Return an empty array instead of null.(¥¹ï8 âæÏ0
+Y
+java:S6437ş"6Revoke and change this password, as it is compromised.(–ÿÁ­ûÿÿÿÿ8ù˜çÏ0
+[	java:S106»"9Replace this use of System.out or System.err by a logger.(àÒ·ûÿÿÿÿ8¦âæÏ0
+D
+java:S1168¼"&Return an empty array instead of null.(¥¹ï8¦âæÏ0
+D
+java:S1168Á"&Return an empty array instead of null.(¥¹ï8§âæÏ0

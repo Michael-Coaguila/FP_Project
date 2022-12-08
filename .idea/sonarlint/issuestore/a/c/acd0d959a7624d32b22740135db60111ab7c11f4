@@ -1,0 +1,25 @@
+
+_
+java:S1192'"IDefine a constant instead of duplicating this literal "DISCOUNT" 6 times.(Œ›œ¾
+c
+java:S1192"HDefine a constant instead of duplicating this literal "PRODUCT" 6 times.(Ø‰ú¾ÿÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÈ¾º
+k	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àï‘ùÿÿÿÿ
+f	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şØÙ‘
+k	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şç¾‹ùÿÿÿÿ
+k	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áâáéúÿÿÿÿ
+f	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤™àŠ
+g	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÓÌ®›ùÿÿÿÿ
+_
+java:S1854-"DRemove this useless assignment to local variable "nombre_descuento".(Å²²Õúÿÿÿÿ
+[
+java:S1854)">Remove this useless assignment to local variable "discountId".(ÖÖ‚Ê8£ôÂ€Ï0
+L
+java:S1481("/Remove this unused "discountId" local variable.(Áˆ‰8§ôÂ€Ï0
+P
+java:S1481,"5Remove this unused "nombre_descuento" local variable.(àï‘ùÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(½ìÈ ùÿÿÿÿ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(¬óı„
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(Ó™à©şÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(Óâ•ÿÿÿÿÿ
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(‡ÃÃÂ
